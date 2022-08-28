@@ -1,7 +1,8 @@
 /node_modules
 DS_Store
-sass-cache
+.sass-cache
 package-lock.json
 package.json
 js
 gruntfile.js
+README.md
